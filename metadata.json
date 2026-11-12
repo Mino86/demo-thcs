@@ -1,0 +1,6 @@
+{
+  "name": "Văn Đề AI – Trợ lý ra đề Ngữ Văn THCS",
+  "description": "Ứng dụng thông minh hỗ trợ giáo viên Ngữ Văn lớp 6, 7, 8, 9 biên soạn đề kiểm tra, đáp án, ma trận và bản đặc tả chuẩn GDPT 2018.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

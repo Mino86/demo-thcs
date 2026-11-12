@@ -1,0 +1,1015 @@
+[
+  {
+    "id": "exam-1794461236441",
+    "code": "101",
+    "title": "ĐỀ KIỂM TRA ĐỊNH KỲ CUỐI HỌC KỲ I MÔN NGỮ VĂN 6",
+    "school": "THCS Nguyễn AN Khương",
+    "district": "Phòng GD&ĐT HỒ CHÍ MINH",
+    "grade": "6",
+    "textbook": "kntt",
+    "examType": "cuoi_ky_1",
+    "durationMinutes": 90,
+    "totalScore": 10,
+    "readingScore": 6,
+    "writingScore": 4,
+    "cognitiveRatios": {
+      "nhanBiet": 30,
+      "thongHieu": 35,
+      "vanDung": 25,
+      "vanDungCao": 10
+    },
+    "readingPassage": {
+      "title": "Chú bé rơm",
+      "author": "Nguyễn Thị Kim Hòa",
+      "source": "Trích tập truyện 'Chú bé rơm', NXB Kim Đồng, 2017",
+      "genre": "Truyện đồng thoại",
+      "content": "Có một chú bé bằng rơm vàng óng. Chú được làm ra từ những cọng rơm còn vương hương nắng đồng sau mùa gặt. Chú bé rơm sống trong căn nhà nhỏ cùng với các bạn đồ chơi. Trong nhóm bạn ấy, chú bé rơm thường bị các bạn khác chế giễu vì ngoại hình mỏng manh, dễ cháy. Một buổi chiều, khi cả nhóm đang chơi đùa dưới ánh nắng, bất ngờ có một chú chim nhỏ bị thương rơi xuống. Các bạn khác vì sợ bẩn nên không ai dám lại gần. Chú bé rơm, dù run rẩy trước những tia nắng gắt có thể làm mình khô héo, vẫn bước đến, dang đôi tay rơm thô ráp che chở cho chú chim. Hành động ấy đã khiến mọi người thay đổi cái nhìn về chú bé rơm. Từ đó, chú không còn là kẻ bị xa lánh mà trở thành người bạn nhỏ dũng cảm, tốt bụng nhất trong căn nhà.",
+      "isAiSuggested": false
+    },
+    "readingQuestions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "type": "trac_nghiem",
+        "cognitiveLevel": "nhan_biet",
+        "strand": "doc_hieu",
+        "question": "Truyện 'Chú bé rơm' được kể bằng ngôi thứ mấy?",
+        "options": [
+          "Ngôi thứ nhất",
+          "Ngôi thứ hai",
+          "Ngôi thứ ba",
+          "Kết hợp ngôi thứ nhất và thứ ba"
+        ],
+        "answer": "C",
+        "guide": "Người kể chuyện không xưng tên, kể lại câu chuyện về chú bé rơm như một người quan sát khách quan.",
+        "score": 0.5
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "type": "trac_nghiem",
+        "cognitiveLevel": "nhan_biet",
+        "strand": "doc_hieu",
+        "question": "Nhân vật chú bé rơm được tạo ra từ nguyên liệu gì?",
+        "options": [
+          "Giấy vụn",
+          "Rơm vàng",
+          "Gỗ vụn",
+          "Vải thừa"
+        ],
+        "answer": "B",
+        "guide": "Thông tin có sẵn ở câu đầu văn bản: 'Chú bé bằng rơm vàng óng'.",
+        "score": 0.5
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "type": "trac_nghiem",
+        "cognitiveLevel": "thong_hieu",
+        "strand": "doc_hieu",
+        "question": "Vì sao các bạn đồ chơi lại thay đổi thái độ đối với chú bé rơm?",
+        "options": [
+          "Vì chú bé rơm trở nên giàu có",
+          "Vì chú bé rơm biết hát",
+          "Vì chú bé rơm dũng cảm cứu chú chim nhỏ",
+          "Vì chú bé rơm xin lỗi các bạn"
+        ],
+        "answer": "C",
+        "guide": "Dựa vào đoạn cuối văn bản, hành động che chở cho chú chim đã thay đổi cách nhìn của các bạn.",
+        "score": 1
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "type": "trac_nghiem",
+        "cognitiveLevel": "thong_hieu",
+        "strand": "tieng_viet",
+        "question": "Trong câu 'Chú bé rơm sống trong căn nhà nhỏ cùng với các bạn đồ chơi', từ nào là danh từ?",
+        "options": [
+          "sống",
+          "căn",
+          "nhà",
+          "nhỏ"
+        ],
+        "answer": "C",
+        "guide": "Từ 'nhà' là danh từ chỉ sự vật.",
+        "score": 0.5
+      },
+      {
+        "id": "q5",
+        "number": 5,
+        "type": "tu_luan",
+        "cognitiveLevel": "thong_hieu",
+        "strand": "doc_hieu",
+        "question": "Chi tiết 'chú bé rơm run rẩy trước những tia nắng gắt' có ý nghĩa gì?",
+        "answer": "Chi tiết này cho thấy sự hy sinh và lòng dũng cảm của chú bé rơm. Dù biết bản thân có thể bị khô héo hoặc cháy vì nắng (do đặc tính của rơm), chú vẫn đặt sự an toàn của chú chim nhỏ lên trên hết.",
+        "guide": "HS trả lời đúng ý: thể hiện sự hy sinh, dũng cảm, biết quan tâm người khác (1.5đ).",
+        "score": 1.5
+      },
+      {
+        "id": "q6",
+        "number": 6,
+        "type": "tu_luan",
+        "cognitiveLevel": "van_dung",
+        "strand": "doc_hieu",
+        "question": "Từ câu chuyện về chú bé rơm, em rút ra bài học gì về tình bạn?",
+        "answer": "Bài học: Tình bạn chân thành không dựa trên vẻ bề ngoài; giá trị con người nằm ở phẩm chất, sự dũng cảm và lòng nhân ái. Chúng ta cần biết cảm thông và bảo vệ những người yếu thế hơn.",
+        "guide": "HS diễn đạt mạch lạc, nêu được bài học nhân văn về tình bạn (2.0đ).",
+        "score": 2
+      }
+    ],
+    "writingQuestion": {
+      "id": "wq1",
+      "topic": "Viết bài văn kể lại một trải nghiệm đáng nhớ của em với một người bạn thân.",
+      "cognitiveLevel": "van_dung_cao",
+      "requirements": "Dung lượng khoảng 400-500 chữ; kể theo ngôi thứ nhất; kết hợp miêu tả và biểu cảm.",
+      "guide": "Giáo viên chấm theo rubric đánh giá bài viết.",
+      "score": 4,
+      "rubricCriteria": [
+        {
+          "name": "Đảm bảo cấu trúc",
+          "description": "Có đủ 3 phần: Mở bài, Thân bài, Kết bài",
+          "score": 0.5
+        },
+        {
+          "name": "Đúng thể loại",
+          "description": "Kể chuyện trải nghiệm",
+          "score": 0.5
+        },
+        {
+          "name": "Nội dung",
+          "description": "Câu chuyện mạch lạc, cảm xúc chân thực, có yếu tố miêu tả, biểu cảm",
+          "score": 2
+        },
+        {
+          "name": "Chính tả, diễn đạt",
+          "description": "Ít lỗi chính tả, câu văn giàu hình ảnh, biểu cảm",
+          "score": 0.5
+        },
+        {
+          "name": "Sáng tạo",
+          "description": "Lời kể lôi cuốn, có suy ngẫm cá nhân",
+          "score": 0.5
+        }
+      ]
+    },
+    "matrix": {
+      "rows": [
+        {
+          "kynang": "Đọc hiểu",
+          "nhanbiet": 3,
+          "thonghieu": 2,
+          "vandung": 1,
+          "vandungcao": 0,
+          "total": 6
+        },
+        {
+          "kynang": "Viết",
+          "nhanbiet": 0,
+          "thonghieu": 0,
+          "vandung": 2,
+          "vandungcao": 2,
+          "total": 4
+        }
+      ],
+      "totalNhanBietScore": 3,
+      "totalThongHieuScore": 2,
+      "totalVanDungScore": 3,
+      "totalVanDungCaoScore": 2,
+      "totalScore": 10
+    },
+    "specification": {
+      "items": [
+        {
+          "cau": 1,
+          "kynang": "Đọc hiểu",
+          "noidung": "Nhận biết thể loại, phương thức biểu đạt",
+          "muctieu": "Nhận biết",
+          "diem": 0.5
+        },
+        {
+          "cau": 2,
+          "kynang": "Đọc hiểu",
+          "noidung": "Nhận biết chi tiết trong văn bản",
+          "muctieu": "Nhận biết",
+          "diem": 1
+        },
+        {
+          "cau": 3,
+          "kynang": "Đọc hiểu",
+          "noidung": "Nhận biết từ ngữ, biện pháp tu từ",
+          "muctieu": "Nhận biết",
+          "diem": 1.5
+        },
+        {
+          "cau": 4,
+          "kynang": "Đọc hiểu",
+          "noidung": "Hiểu nội dung chính của đoạn trích",
+          "muctieu": "Thông hiểu",
+          "diem": 1
+        },
+        {
+          "cau": 5,
+          "kynang": "Đọc hiểu",
+          "noidung": "Giải thích ý nghĩa thông điệp",
+          "muctieu": "Thông hiểu",
+          "diem": 1
+        },
+        {
+          "cau": 6,
+          "kynang": "Đọc hiểu",
+          "noidung": "Rút ra bài học cho bản thân",
+          "muctieu": "Vận dụng",
+          "diem": 1
+        },
+        {
+          "cau": 7,
+          "kynang": "Viết",
+          "noidung": "Viết bài văn kể lại một trải nghiệm đáng nhớ",
+          "muctieu": "Vận dụng và Vận dụng cao",
+          "diem": 4
+        }
+      ]
+    },
+    "variants": [],
+    "status": "draft",
+    "teacherName": "Nguyễn Ngọc Huyền Trang ",
+    "schoolYear": "2026- 2027",
+    "semester": "Học kỳ I",
+    "notes": "Văn bản truyện đồng thoại về tình bạn tuổi thơ ngoài SGK",
+    "createdAt": "2026-11-12T05:27:16.441Z",
+    "updatedAt": "2026-11-12T06:27:26.583Z"
+  },
+  {
+    "id": "exam-1794461137090",
+    "code": "101",
+    "title": "ĐỀ KIỂM TRA ĐỊNH KỲ GIỮA HỌC KỲ I - MÔN NGỮ VĂN LỚP 6",
+    "school": "THCS Nguyễn AN Khương",
+    "district": "Phòng GD&ĐT HỒ CHÍ MINH",
+    "grade": "6",
+    "textbook": "kntt",
+    "examType": "giua_ky_1",
+    "durationMinutes": 90,
+    "totalScore": 10,
+    "readingScore": 6,
+    "writingScore": 4,
+    "cognitiveRatios": {
+      "nhanBiet": 30,
+      "thongHieu": 35,
+      "vanDung": 25,
+      "vanDungCao": 10
+    },
+    "readingPassage": {
+      "title": "Lời mẹ ru",
+      "author": "Nguyễn Duy",
+      "source": "Trích tập thơ 'Ánh trăng', NXB Tác phẩm mới, 1984",
+      "genre": "Thơ lục bát",
+      "content": "Con về thăm lại quê nhà\nThăm vườn cây cũ, thăm bà, thăm quê\nLời ru của mẹ mang về\nTheo con đi suốt dọc bề năm tháng\n\nTuổi thơ như đóa hoa vàng\nNở trong nắng sớm, xóm làng bình yên\nLời ru như ánh trăng hiền\nSoi đường con bước, nỗi niềm yêu thương\n\nDẫu mai đi khắp muôn phương\nLời ru vẫn vọng trong sương nắng đời\nThương con, mẹ gửi cả lời\nĐể con khôn lớn, chẳng rời nguồn quê.",
+      "isAiSuggested": false
+    },
+    "readingQuestions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "type": "trac_nghiem",
+        "cognitiveLevel": "nhan_biet",
+        "strand": "doc_hieu",
+        "question": "Văn bản trên được viết theo thể thơ nào?",
+        "options": [
+          "Tự do",
+          "Lục bát",
+          "Năm chữ",
+          "Bảy chữ"
+        ],
+        "answer": "B",
+        "guide": "Nhận diện đặc điểm thể thơ lục bát (câu 6, câu 8 xen kẽ).",
+        "score": 0.5
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "type": "trac_nghiem",
+        "cognitiveLevel": "nhan_biet",
+        "strand": "doc_hieu",
+        "question": "Đối tượng chính được nhắc đến trong lời ru của mẹ là ai?",
+        "options": [
+          "Người bà",
+          "Người cha",
+          "Đứa con",
+          "Quê hương"
+        ],
+        "answer": "C",
+        "guide": "Căn cứ vào nội dung bài thơ, tác giả viết về tình cảm mẹ dành cho đứa con.",
+        "score": 0.5
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "type": "trac_nghiem",
+        "cognitiveLevel": "thong_hieu",
+        "strand": "doc_hieu",
+        "question": "Biện pháp tu từ nào được sử dụng trong dòng thơ 'Tuổi thơ như đóa hoa vàng'?",
+        "options": [
+          "Nhân hóa",
+          "So sánh",
+          "Ẩn dụ",
+          "Điệp ngữ"
+        ],
+        "answer": "B",
+        "guide": "Có từ 'như' so sánh tuổi thơ với đóa hoa vàng.",
+        "score": 0.5
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "type": "trac_nghiem",
+        "cognitiveLevel": "thong_hieu",
+        "strand": "doc_hieu",
+        "question": "Hình ảnh 'ánh trăng hiền' trong bài thơ gợi liên tưởng đến điều gì?",
+        "options": [
+          "Sự dịu dàng, soi sáng và bảo vệ của lời ru mẹ",
+          "Sự lạnh lẽo của màn đêm",
+          "Vẻ đẹp của thiên nhiên quê hương",
+          "Sự xa cách của con với mẹ"
+        ],
+        "answer": "A",
+        "guide": "Thông hiểu hình ảnh ẩn dụ biểu trưng cho tấm lòng bao dung của mẹ.",
+        "score": 0.5
+      },
+      {
+        "id": "q5",
+        "number": 5,
+        "type": "tu_luan",
+        "cognitiveLevel": "thong_hieu",
+        "strand": "doc_hieu",
+        "question": "Theo dòng thơ cuối, tại sao mẹ lại 'gửi cả lời' trong lời ru cho con?",
+        "answer": "Mẹ gửi tình yêu thương, hy vọng và những lời dạy bảo vào lời ru để con có hành trang vững vàng, khôn lớn trưởng thành và không quên cội nguồn.",
+        "guide": "HS trả lời đúng ý: Tình yêu thương của mẹ (0.5đ); giúp con trưởng thành, ghi nhớ cội nguồn (0.5đ).",
+        "score": 1
+      },
+      {
+        "id": "q6",
+        "number": 6,
+        "type": "tu_luan",
+        "cognitiveLevel": "van_dung",
+        "strand": "doc_hieu",
+        "question": "Từ nội dung bài thơ, em hãy viết đoạn văn (3-5 câu) nêu cảm nhận về tình mẫu tử.",
+        "answer": "Tình mẫu tử là tình cảm thiêng liêng và cao quý nhất. Qua bài thơ, em cảm nhận được sự hi sinh thầm lặng của mẹ qua lời ru ngọt ngào. Dù con đi đâu, tình yêu của mẹ vẫn mãi là bến đỗ bình yên, là sức mạnh giúp con vững bước trên đường đời.",
+        "guide": "Đúng dung lượng (3-5 câu): 0.5đ; Nội dung cảm nhận sâu sắc, biểu cảm tích cực: 2.5đ.",
+        "score": 3
+      }
+    ],
+    "writingQuestion": {
+      "id": "wq1",
+      "topic": "Viết bài văn kể lại một trải nghiệm đáng nhớ của em với người thân trong gia đình.",
+      "cognitiveLevel": "van_dung_cao",
+      "requirements": "Dung lượng từ 300-500 chữ; kể theo ngôi thứ nhất; có yếu tố biểu cảm.",
+      "guide": "Chấm dựa trên khả năng kể chuyện và cảm xúc chân thật.",
+      "score": 4,
+      "rubricCriteria": [
+        {
+          "name": "Đảm bảo cấu trúc bài văn",
+          "description": "Mở bài, Thân bài, Kết bài rõ ràng",
+          "score": 0.5
+        },
+        {
+          "name": "Xác định đúng yêu cầu",
+          "description": "Đúng chủ đề kể về người thân, thể loại tự sự",
+          "score": 0.5
+        },
+        {
+          "name": "Nội dung bài viết",
+          "description": "Kể lại sự việc có đầu đuôi, chi tiết hấp dẫn, bộc lộ cảm xúc",
+          "score": 2
+        },
+        {
+          "name": "Chính tả, ngữ pháp",
+          "description": "Chuẩn mực tiếng Việt, dùng từ đặt câu đúng",
+          "score": 0.5
+        },
+        {
+          "name": "Sáng tạo",
+          "description": "Lời văn sinh động, có chiều sâu cảm xúc",
+          "score": 0.5
+        }
+      ]
+    },
+    "matrix": {
+      "rows": [
+        {
+          "strand": "I. Đọc hiểu",
+          "subStrand": "Thơ lục bát",
+          "nhanBiet": {
+            "tnCount": 2,
+            "tlCount": 0,
+            "score": 1
+          },
+          "thongHieu": {
+            "tnCount": 2,
+            "tlCount": 1,
+            "score": 2
+          },
+          "vanDung": {
+            "tnCount": 0,
+            "tlCount": 1,
+            "score": 3
+          },
+          "vanDungCao": {
+            "tnCount": 0,
+            "tlCount": 0,
+            "score": 0
+          },
+          "totalScore": 6,
+          "percentage": 60
+        },
+        {
+          "strand": "II. Viết",
+          "subStrand": "Bài văn tự sự",
+          "nhanBiet": {
+            "tnCount": 0,
+            "tlCount": 0,
+            "score": 0
+          },
+          "thongHieu": {
+            "tnCount": 0,
+            "tlCount": 0,
+            "score": 0
+          },
+          "vanDung": {
+            "tnCount": 0,
+            "tlCount": 0,
+            "score": 0
+          },
+          "vanDungCao": {
+            "tnCount": 0,
+            "tlCount": 1,
+            "score": 4
+          },
+          "totalScore": 4,
+          "percentage": 40
+        }
+      ],
+      "totalNhanBietScore": 1,
+      "totalThongHieuScore": 2,
+      "totalVanDungScore": 3,
+      "totalVanDungCaoScore": 4,
+      "totalScore": 10
+    },
+    "specification": {
+      "items": [
+        {
+          "number": "1",
+          "strand": "Đọc hiểu",
+          "genre": "Thơ lục bát",
+          "cognitiveLevel": "Nhận biết",
+          "standardRequired": "Nhận diện thể thơ",
+          "questionType": "Trắc nghiệm",
+          "score": 0.5
+        },
+        {
+          "number": "2",
+          "strand": "Đọc hiểu",
+          "genre": "Thơ lục bát",
+          "cognitiveLevel": "Nhận biết",
+          "standardRequired": "Xác định đối tượng",
+          "questionType": "Trắc nghiệm",
+          "score": 0.5
+        },
+        {
+          "number": "3",
+          "strand": "Đọc hiểu",
+          "genre": "Thơ lục bát",
+          "cognitiveLevel": "Thông hiểu",
+          "standardRequired": "Biện pháp tu từ",
+          "questionType": "Trắc nghiệm",
+          "score": 0.5
+        },
+        {
+          "number": "4",
+          "strand": "Đọc hiểu",
+          "genre": "Thơ lục bát",
+          "cognitiveLevel": "Thông hiểu",
+          "standardRequired": "Giải nghĩa hình ảnh",
+          "questionType": "Trắc nghiệm",
+          "score": 0.5
+        },
+        {
+          "number": "5",
+          "strand": "Đọc hiểu",
+          "genre": "Thơ lục bát",
+          "cognitiveLevel": "Thông hiểu",
+          "standardRequired": "Hiểu nội dung",
+          "questionType": "Tự luận",
+          "score": 1
+        },
+        {
+          "number": "6",
+          "strand": "Đọc hiểu",
+          "genre": "Thơ lục bát",
+          "cognitiveLevel": "Vận dụng",
+          "standardRequired": "Cảm nhận ý nghĩa",
+          "questionType": "Tự luận",
+          "score": 3
+        },
+        {
+          "number": "7",
+          "strand": "Viết",
+          "genre": "Văn tự sự",
+          "cognitiveLevel": "Vận dụng cao",
+          "standardRequired": "Kể chuyện trải nghiệm",
+          "questionType": "Tự luận",
+          "score": 4
+        }
+      ]
+    },
+    "variants": [],
+    "status": "draft",
+    "teacherName": "Nguyễn Ngọc Huyền Trang ",
+    "schoolYear": "2026- 2027",
+    "semester": "Học kỳ I",
+    "notes": "Ngữ liệu thơ lục bát về tình cảm gia đình ngoài SGK",
+    "createdAt": "2026-11-12T05:25:37.090Z",
+    "updatedAt": "2026-11-12T05:25:37.091Z"
+  },
+  {
+    "id": "exam-sample-01",
+    "code": "101",
+    "title": "ĐỀ KIỂM TRA ĐỊNH KỲ GIỮA HỌC KỲ I - MÔN NGỮ VĂN 7",
+    "school": "TRƯỜNG THCS NGUYỄN DU",
+    "district": "PHÒNG GD&ĐT QUẬN HOÀN KIẾM",
+    "grade": "7",
+    "textbook": "kntt",
+    "examType": "giua_ky_1",
+    "durationMinutes": 90,
+    "totalScore": 10,
+    "readingScore": 6,
+    "writingScore": 4,
+    "cognitiveRatios": {
+      "nhanBiet": 30,
+      "thongHieu": 35,
+      "vanDung": 25,
+      "vanDungCao": 10
+    },
+    "readingPassage": {
+      "title": "Mẹ",
+      "author": "Đỗ Trung Lai",
+      "source": "Tập thơ \"Đêm sông Cầu\", NXB Quân đội Nhân dân, 2003",
+      "genre": "Thơ lục bát",
+      "content": "Lưng mẹ còng rồi\nCau thì vẫn thẳng\nCau - ngọn xanh rờn\nMẹ - đầu bạc trắng.\n\nCau ngày càng cao\nMẹ ngày một thấp\nCau gần với giời\nMẹ thì gần đất!\n\nMột miếng cau khô\nKhô gầy như mẹ\nCon nâng trên tay\nKhông cầm được lệ.\n\nNgẩng đầu hỏi giời:\n- Sao mẹ ta già?\nKhông một lời đáp\nMây bay về xa.",
+      "isAiSuggested": false,
+      "isCustom": false
+    },
+    "readingQuestions": [
+      {
+        "id": "rq-1",
+        "number": 1,
+        "type": "trac_nghiem",
+        "cognitiveLevel": "nhan_biet",
+        "strand": "doc_hieu",
+        "question": "Bài thơ trên được viết theo thể thơ nào?",
+        "options": [
+          "Thơ lục bát",
+          "Thơ bốn chữ",
+          "Thơ năm chữ",
+          "Thơ tự do"
+        ],
+        "answer": "B",
+        "guide": "Mỗi dòng thơ có 4 tiếng, gieo vần linh hoạt. Chọn đáp án B: Thơ bốn chữ.",
+        "score": 0.5
+      },
+      {
+        "id": "rq-2",
+        "number": 2,
+        "type": "trac_nghiem",
+        "cognitiveLevel": "nhan_biet",
+        "strand": "doc_hieu",
+        "question": "Hình ảnh nào trong bài thơ được tác giả đem ra sóng đôi, đối chiếu với hình ảnh người mẹ?",
+        "options": [
+          "Cây cau",
+          "Ngọn mây",
+          "Chiếc chăn bông",
+          "Vầng trăng"
+        ],
+        "answer": "A",
+        "guide": "Tác giả đối chiếu hình ảnh cây cau với người mẹ qua các khổ thơ. Chọn A.",
+        "score": 0.5
+      },
+      {
+        "id": "rq-3",
+        "number": 3,
+        "type": "trac_nghiem",
+        "cognitiveLevel": "thong_hieu",
+        "strand": "doc_hieu",
+        "question": "Cặp từ trái nghĩa nào sau đây xuất hiện trong khổ thơ thứ nhất và thứ hai?",
+        "options": [
+          "Còng - thẳng, cao - thấp",
+          "Giời - đất, xanh - vàng",
+          "Trắng - đen, già - trẻ",
+          "Khô - ướt, xa - gần"
+        ],
+        "answer": "A",
+        "guide": "Lưng mẹ còng / Cau thẳng; Cau cao / Mẹ thấp. Chọn A.",
+        "score": 0.5
+      },
+      {
+        "id": "rq-4",
+        "number": 4,
+        "type": "trac_nghiem",
+        "cognitiveLevel": "thong_hieu",
+        "strand": "tieng_viet",
+        "question": "Biện pháp tu từ chính được sử dụng trong câu \"Khô gầy như mẹ\" là gì?",
+        "options": [
+          "Nhân hóa",
+          "So sánh",
+          "Ẩn dụ",
+          "Điệp ngữ"
+        ],
+        "answer": "B",
+        "guide": "Có từ so sánh \"như\" liên kết giữa miếng cau khô và mẹ. Chọn B.",
+        "score": 0.5
+      },
+      {
+        "id": "rq-5",
+        "number": 5,
+        "type": "tu_luan",
+        "cognitiveLevel": "thong_hieu",
+        "strand": "doc_hieu",
+        "question": "Chỉ ra và phân tích tác dụng của hình ảnh tương phản giữa \"cau\" và \"mẹ\" trong hai khổ thơ đầu.",
+        "answer": "Tương phản giữa cau (thẳng, xanh rờn, ngày càng cao, gần với giời) và mẹ (còng rồi, đầu bạc trắng, ngày một thấp, gần đất). Tác dụng: làm nổi bật sự tàn phá nghiệt ngã của thời gian đối với tuổi tác và sức khỏe của mẹ, từ đó bộc lộ niềm xót xa, nghẹn ngào của người con.",
+        "guide": "Nêu đúng các chi tiết tương phản: 0.5đ. Phân tích tác dụng làm nổi bật hình ảnh người mẹ và cảm xúc người con: 1.0đ. Tổng 1.5đ.",
+        "score": 1.5
+      },
+      {
+        "id": "rq-6",
+        "number": 6,
+        "type": "tu_luan",
+        "cognitiveLevel": "van_dung",
+        "strand": "doc_hieu",
+        "question": "Từ tâm trạng của nhân vật người con trong khổ thơ cuối, em rút ra cho bản thân bài học gì về đạo làm con đối với cha mẹ? (Trả lời trong khoảng 4 - 6 dòng).",
+        "answer": "Học sinh có thể diễn đạt theo nhiều cách: trân trọng từng phút giây bên cha mẹ khi cha mẹ còn sống; biết yêu thương, chăm sóc, phụng dưỡng, hiếu thảo; cố gắng chăm ngoan, học giỏi để đền đáp công ơn sinh thành dưỡng dục...",
+        "guide": "Nêu được bài học sâu sắc, chân thành, hợp chuẩn mực đạo đức: 1.0đ. Viết đúng dung lượng, không sai chính tả: 0.5đ. Tổng 1.5đ.",
+        "score": 1.5
+      },
+      {
+        "id": "rq-7",
+        "number": 7,
+        "type": "tu_luan",
+        "cognitiveLevel": "van_dung",
+        "strand": "tieng_viet",
+        "question": "Tìm một phó từ trong bài thơ và nêu ý nghĩa ngữ pháp của phó từ đó.",
+        "answer": "Phó từ \"đã\", \"vẫn\", \"càng\", \"ngày một\"... Ví dụ: Phó từ \"vẫn\" bổ sung ý nghĩa về sự tiếp diễn của hành động/trạng thái; phó từ \"càng\" biểu thị mức độ tăng tiến.",
+        "guide": "Tìm đúng phó từ: 0.5đ. Nêu đúng ý nghĩa: 0.5đ. Tổng 1.0đ.",
+        "score": 1
+      }
+    ],
+    "writingQuestion": {
+      "id": "wq-1",
+      "topic": "Viết bài văn biểu cảm (khoảng 400 - 500 chữ) thể hiện cảm nghĩ của em về một người thân yêu nhất trong gia đình (ông, bà, cha hoặc mẹ).",
+      "cognitiveLevel": "van_dung_cao",
+      "requirements": "Bài viết có bố cục 3 phần rõ ràng, kết hợp nhuần nhuyễn giữa yếu tố miêu tả, tự sự với bộc lộ cảm xúc chân thành, sâu lắng.",
+      "guide": "Đảm bảo bố cục bài văn biểu cảm (0.5đ). Xác định đúng đối tượng và tình cảm chủ đạo (0.5đ). Thân bài: kể kết hợp miêu tả làm nổi bật những nét đáng yêu, đáng kính của người thân, xen kẽ dòng cảm xúc biết ơn, gắn bó (2.0đ). Sáng tạo, cảm xúc chân thực, câu văn giàu hình ảnh (0.5đ). Chính tả, ngữ pháp chuẩn (0.5đ).",
+      "score": 4,
+      "rubricCriteria": [
+        {
+          "name": "Hình thức bài văn",
+          "description": "Đủ 3 phần Mở - Thân - Kết, đúng thể loại biểu cảm",
+          "score": 0.5
+        },
+        {
+          "name": "Xác định đối tượng",
+          "description": "Chọn người thân cụ thể, xác lập cảm xúc nhất quán",
+          "score": 0.5
+        },
+        {
+          "name": "Nội dung biểu cảm",
+          "description": "Kết hợp kể, tả và bộc lộ cảm xúc sâu sắc về người thân",
+          "score": 2
+        },
+        {
+          "name": "Chính tả, ngữ pháp",
+          "description": "Viết đúng chính tả, dùng từ chính xác, câu văn gãy gọn",
+          "score": 0.5
+        },
+        {
+          "name": "Sáng tạo",
+          "description": "Cách diễn đạt truyền cảm, giọng điệu riêng biệt, độc đáo",
+          "score": 0.5
+        }
+      ]
+    },
+    "matrix": {
+      "rows": [
+        {
+          "strand": "I. Đọc hiểu",
+          "subStrand": "Thơ bốn chữ / năm chữ",
+          "nhanBiet": {
+            "tnCount": 2,
+            "tlCount": 0,
+            "score": 1
+          },
+          "thongHieu": {
+            "tnCount": 1,
+            "tlCount": 1,
+            "score": 2
+          },
+          "vanDung": {
+            "tnCount": 0,
+            "tlCount": 1,
+            "score": 1.5
+          },
+          "vanDungCao": {
+            "tnCount": 0,
+            "tlCount": 0,
+            "score": 0
+          },
+          "totalScore": 4.5,
+          "percentage": 45
+        },
+        {
+          "strand": "II. Tiếng Việt",
+          "subStrand": "Biện pháp tu từ & Phó từ",
+          "nhanBiet": {
+            "tnCount": 0,
+            "tlCount": 0,
+            "score": 0
+          },
+          "thongHieu": {
+            "tnCount": 1,
+            "tlCount": 0,
+            "score": 0.5
+          },
+          "vanDung": {
+            "tnCount": 0,
+            "tlCount": 1,
+            "score": 1
+          },
+          "vanDungCao": {
+            "tnCount": 0,
+            "tlCount": 0,
+            "score": 0
+          },
+          "totalScore": 1.5,
+          "percentage": 15
+        },
+        {
+          "strand": "III. Viết",
+          "subStrand": "Bài văn biểu cảm về người thân",
+          "nhanBiet": {
+            "tnCount": 0,
+            "tlCount": 0,
+            "score": 0
+          },
+          "thongHieu": {
+            "tnCount": 0,
+            "tlCount": 0,
+            "score": 0
+          },
+          "vanDung": {
+            "tnCount": 0,
+            "tlCount": 0,
+            "score": 0
+          },
+          "vanDungCao": {
+            "tnCount": 0,
+            "tlCount": 1,
+            "score": 4
+          },
+          "totalScore": 4,
+          "percentage": 40
+        }
+      ],
+      "totalNhanBietScore": 1,
+      "totalThongHieuScore": 2.5,
+      "totalVanDungScore": 2.5,
+      "totalVanDungCaoScore": 4,
+      "totalScore": 10
+    },
+    "specification": {
+      "items": [
+        {
+          "number": "Câu 1 (TN)",
+          "strand": "Đọc hiểu",
+          "genre": "Thơ 4 chữ",
+          "cognitiveLevel": "Nhận biết",
+          "standardRequired": "Nhận biết được đặc điểm thể thơ bốn chữ qua số tiếng của mỗi dòng thơ.",
+          "questionType": "Trắc nghiệm khách quan",
+          "score": 0.5
+        },
+        {
+          "number": "Câu 2 (TN)",
+          "strand": "Đọc hiểu",
+          "genre": "Thơ 4 chữ",
+          "cognitiveLevel": "Nhận biết",
+          "standardRequired": "Nhận biết được hình ảnh đối chiếu sóng đôi trong thi phẩm.",
+          "questionType": "Trắc nghiệm khách quan",
+          "score": 0.5
+        },
+        {
+          "number": "Câu 3 (TN)",
+          "strand": "Đọc hiểu",
+          "genre": "Thơ 4 chữ",
+          "cognitiveLevel": "Thông hiểu",
+          "standardRequired": "Hiểu được tác dụng của các cặp từ ngữ trái nghĩa thể hiện dụng ý tác giả.",
+          "questionType": "Trắc nghiệm khách quan",
+          "score": 0.5
+        },
+        {
+          "number": "Câu 4 (TN)",
+          "strand": "Tiếng Việt",
+          "genre": "Biện pháp tu từ",
+          "cognitiveLevel": "Thông hiểu",
+          "standardRequired": "Xác định chính xác biện pháp tu từ so sánh trong dòng thơ.",
+          "questionType": "Trắc nghiệm khách quan",
+          "score": 0.5
+        },
+        {
+          "number": "Câu 5 (TL)",
+          "strand": "Đọc hiểu",
+          "genre": "Thơ 4 chữ",
+          "cognitiveLevel": "Thông hiểu",
+          "standardRequired": "Phân tích được ý nghĩa biểu cảm của nghệ thuật tương phản đối lập trong bài thơ.",
+          "questionType": "Tự luận ngắn",
+          "score": 1.5
+        },
+        {
+          "number": "Câu 6 (TL)",
+          "strand": "Đọc hiểu",
+          "genre": "Thơ 4 chữ",
+          "cognitiveLevel": "Vận dụng",
+          "standardRequired": "Rút ra thông điệp, bài học ý nghĩa về đạo hiếu và cách ứng xử đối với cha mẹ.",
+          "questionType": "Tự luận",
+          "score": 1.5
+        },
+        {
+          "number": "Câu 7 (TL)",
+          "strand": "Tiếng Việt",
+          "genre": "Ngữ pháp",
+          "cognitiveLevel": "Vận dụng",
+          "standardRequired": "Nhận diện và nêu ý nghĩa ngữ pháp của phó từ được sử dụng trong văn cảnh.",
+          "questionType": "Tự luận ngắn",
+          "score": 1
+        },
+        {
+          "number": "Phần II (TL)",
+          "strand": "Tập làm văn",
+          "genre": "Văn biểu cảm",
+          "cognitiveLevel": "Vận dụng cao",
+          "standardRequired": "Viết được bài văn biểu cảm về người thân, bộc lộ tình cảm chân thành, sâu sắc.",
+          "questionType": "Tự luận bài văn",
+          "score": 4
+        }
+      ]
+    },
+    "variants": [
+      {
+        "code": "102",
+        "title": "ĐỀ KIỂM TRA ĐỊNH KỲ GIỮA HỌC KỲ I - MÔN NGỮ VĂN 7 (MÃ ĐỀ 102)",
+        "readingQuestions": [
+          {
+            "id": "rq-102-1",
+            "number": 1,
+            "type": "trac_nghiem",
+            "cognitiveLevel": "nhan_biet",
+            "strand": "doc_hieu",
+            "question": "Hình ảnh nào trong bài thơ được tác giả đem ra đối chiếu xuyên suốt với hình ảnh người mẹ?",
+            "options": [
+              "Ngọn mây",
+              "Cây cau",
+              "Vầng trăng",
+              "Chiếc chăn bông"
+            ],
+            "answer": "B",
+            "guide": "Đáp án B: Cây cau.",
+            "score": 0.5
+          },
+          {
+            "id": "rq-102-2",
+            "number": 2,
+            "type": "trac_nghiem",
+            "cognitiveLevel": "nhan_biet",
+            "strand": "doc_hieu",
+            "question": "Thể thơ của bài thơ \"Mẹ\" (Đỗ Trung Lai) là gì?",
+            "options": [
+              "Thơ tự do",
+              "Thơ lục bát",
+              "Thơ bốn chữ",
+              "Thơ năm chữ"
+            ],
+            "answer": "C",
+            "guide": "Đáp án C: Thơ bốn chữ.",
+            "score": 0.5
+          },
+          {
+            "id": "rq-102-3",
+            "number": 3,
+            "type": "trac_nghiem",
+            "cognitiveLevel": "thong_hieu",
+            "strand": "tieng_viet",
+            "question": "Biện pháp tu từ nổi bật trong câu \"Một miếng cau khô / Khô gầy như mẹ\" là:",
+            "options": [
+              "Ẩn dụ",
+              "Nhân hóa",
+              "So sánh",
+              "Hoán dụ"
+            ],
+            "answer": "C",
+            "guide": "Đáp án C: So sánh.",
+            "score": 0.5
+          },
+          {
+            "id": "rq-102-4",
+            "number": 4,
+            "type": "trac_nghiem",
+            "cognitiveLevel": "thong_hieu",
+            "strand": "doc_hieu",
+            "question": "Dòng nào dưới đây nêu đúng nhất cảm xúc chủ đạo của người con trong bài thơ?",
+            "options": [
+              "Tự hào, kiêu hãnh",
+              "Xót xa, yêu thương và tha thiết thương mẹ",
+              "Vui mừng, phấn khởi",
+              "Bàng quan, lạnh lùng"
+            ],
+            "answer": "B",
+            "guide": "Đáp án B: Nỗi xót xa nghẹn ngào và lòng thương mẹ vô hạn.",
+            "score": 0.5
+          },
+          {
+            "id": "rq-102-5",
+            "number": 5,
+            "type": "tu_luan",
+            "cognitiveLevel": "thong_hieu",
+            "strand": "doc_hieu",
+            "question": "Chỉ ra và phân tích tác dụng của hình ảnh tương phản giữa \"cau\" và \"mẹ\" trong hai khổ thơ đầu.",
+            "answer": "Tương phản giữa cau và mẹ làm nổi bật sự già nua, hao mòn sức khỏe của mẹ theo thời gian, bộc lộ tình thương mẹ vô bờ của người con.",
+            "guide": "Nêu đúng chi tiết: 0.5đ. Phân tích tác dụng: 1.0đ. Tổng 1.5đ.",
+            "score": 1.5
+          },
+          {
+            "id": "rq-102-6",
+            "number": 6,
+            "type": "tu_luan",
+            "cognitiveLevel": "van_dung",
+            "strand": "doc_hieu",
+            "question": "Từ câu hỏi tu từ \"Sao mẹ ta già?\" ở cuối bài, em hãy viết một đoạn văn ngắn (khoảng 5 - 7 câu) nêu suy nghĩ về trách nhiệm của con cái đối với cha mẹ khi cha mẹ tuổi đã cao.",
+            "answer": "Học sinh nêu rõ: cha mẹ dành cả cuộc đời lo cho con, khi về già sức yếu cần được con cái quan tâm, chăm sóc chu đáo cả vật chất lẫn tinh thần...",
+            "guide": "Nội dung sâu sắc, cảm xúc chân thành: 1.0đ. Diễn đạt mạch lạc: 0.5đ. Tổng 1.5đ.",
+            "score": 1.5
+          },
+          {
+            "id": "rq-102-7",
+            "number": 7,
+            "type": "tu_luan",
+            "cognitiveLevel": "van_dung",
+            "strand": "tieng_viet",
+            "question": "Tìm một phó từ trong bài thơ và giải thích tác dụng của nó trong câu thơ chứa nó.",
+            "answer": "Ví dụ: phó từ \"vẫn\", \"càng\", \"ngày một\"... biểu thị sự vận động, tiếp diễn hoặc mức độ tăng tiến.",
+            "guide": "Tìm đúng phó từ: 0.5đ. Giải thích tác dụng: 0.5đ. Tổng 1.0đ.",
+            "score": 1
+          }
+        ],
+        "writingQuestion": {
+          "id": "wq-102",
+          "topic": "Viết bài văn biểu cảm (khoảng 400 - 500 chữ) thể hiện tình cảm của em đối với người bà kính yêu của mình.",
+          "cognitiveLevel": "van_dung_cao",
+          "requirements": "Bố cục rõ ràng 3 phần, bộc lộ tình cảm chân thực, giàu cảm xúc, kết hợp tự sự và miêu tả hợp lý.",
+          "guide": "Cấu trúc bài văn biểu cảm (0.5đ). Thể hiện tình cảm với bà (0.5đ). Nội dung kể, tả chi tiết gắn với cảm xúc (2.0đ). Sáng tạo, cảm xúc (0.5đ). Chính tả ngữ pháp (0.5đ). Tổng 4.0đ.",
+          "score": 4,
+          "rubricCriteria": [
+            {
+              "name": "Hình thức bài văn",
+              "description": "Đủ 3 phần Mở - Thân - Kết",
+              "score": 0.5
+            },
+            {
+              "name": "Xác định đối tượng",
+              "description": "Người bà kính yêu, tình cảm sâu đậm",
+              "score": 0.5
+            },
+            {
+              "name": "Nội dung biểu cảm",
+              "description": "Kể tả kết hợp bộc lộ tình cảm chân thành",
+              "score": 2
+            },
+            {
+              "name": "Chính tả, dùng từ",
+              "description": "Không mắc lỗi chính tả, diễn đạt trôi chảy",
+              "score": 0.5
+            },
+            {
+              "name": "Sáng tạo",
+              "description": "Hình ảnh độc đáo, giọng văn giàu cảm xúc",
+              "score": 0.5
+            }
+          ]
+        }
+      }
+    ],
+    "status": "approved",
+    "teacherName": "Nguyễn Thị Thu Hà",
+    "schoolYear": "2024 - 2025",
+    "semester": "Học kỳ I",
+    "notes": "Đề thi bám sát Công văn 3175/BGDĐT, sử dụng ngữ liệu thơ 4 chữ ngoài SGK.",
+    "createdAt": "2024-11-05T08:30:00Z",
+    "updatedAt": "2024-11-05T10:15:00Z"
+  }
+]
